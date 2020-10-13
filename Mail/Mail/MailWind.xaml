@@ -1,0 +1,36 @@
+﻿<Window x:Class="Mail.MailWind"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mail" 
+        xmlns:col="clr-namespace:System.Collections;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MailWind" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <Button x:Name="btnNewMs" Margin="0 30" Click="btnNewMs_Click">New conversation</Button>
+            <Button x:Name="btnRefresh" Click="btnRefresh_Click">Refresh</Button>
+        </StackPanel>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <ListView x:Name="lbItem" MouseDoubleClick="lbItem_MouseDoubleClick">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Name}">Massage from</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Subj}">Theme</GridViewColumn>
+                        <GridViewColumn DisplayMemberBinding="{Binding Path=Date}">Date</GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ProgressBar  x:Name="progress" Grid.Row="1" Margin="10 20 10 0" Visibility="Hidden"></ProgressBar>
+        </Grid>
+    </Grid>
+</Window>
