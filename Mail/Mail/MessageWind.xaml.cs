@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Mail;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -13,6 +14,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace Mail
 {
@@ -39,8 +41,8 @@ namespace Mail
                 this.Close();
             else
             {
-               Task.Run(()=> SendEmailAsync(login, passwd,tbDateOrTo.Text,tbHead.Text,tbText.Text));
-               this.Close();
+               this.Dispatcher.Invoke(DispatcherPriority.Normal,new Action(async()=>await SendEmailAsync(login, passwd, tbDateOrTo.Text, tbHead.Text, tbText.Text)));
+              // this.Close();
             }
         }
         private async Task SendEmailAsync(string login,string passw, string toto, string head,string text)
