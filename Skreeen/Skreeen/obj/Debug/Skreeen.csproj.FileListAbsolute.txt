@@ -1,0 +1,7 @@
+D:\User\Desktop\STEP\NetWork\Skreeen\Skreeen\bin\Debug\Skreeen.exe.config
+D:\User\Desktop\STEP\NetWork\Skreeen\Skreeen\bin\Debug\Skreeen.exe
+D:\User\Desktop\STEP\NetWork\Skreeen\Skreeen\bin\Debug\Skreeen.pdb
+D:\User\Desktop\STEP\NetWork\Skreeen\Skreeen\obj\Debug\Skreeen.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\NetWork\Skreeen\Skreeen\obj\Debug\Skreeen.exe
+D:\User\Desktop\STEP\NetWork\Skreeen\Skreeen\obj\Debug\Skreeen.pdb
+D:\User\Desktop\STEP\NetWork\Skreeen\Skreeen\obj\Debug\Skreeen.csprojAssemblyReference.cache
