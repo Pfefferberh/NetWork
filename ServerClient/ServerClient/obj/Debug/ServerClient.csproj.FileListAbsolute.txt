@@ -1,0 +1,6 @@
+D:\User\Desktop\STEP\NetWork\ServerClient\ServerClient\bin\Debug\ServerClient.exe.config
+D:\User\Desktop\STEP\NetWork\ServerClient\ServerClient\bin\Debug\ServerClient.exe
+D:\User\Desktop\STEP\NetWork\ServerClient\ServerClient\bin\Debug\ServerClient.pdb
+D:\User\Desktop\STEP\NetWork\ServerClient\ServerClient\obj\Debug\ServerClient.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\NetWork\ServerClient\ServerClient\obj\Debug\ServerClient.exe
+D:\User\Desktop\STEP\NetWork\ServerClient\ServerClient\obj\Debug\ServerClient.pdb

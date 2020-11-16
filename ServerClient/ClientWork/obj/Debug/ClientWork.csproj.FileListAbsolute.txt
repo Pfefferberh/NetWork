@@ -1,0 +1,5 @@
+D:\User\Desktop\STEP\NetWork\ServerClient\ClientWork\bin\Debug\ClientWork.dll
+D:\User\Desktop\STEP\NetWork\ServerClient\ClientWork\bin\Debug\ClientWork.pdb
+D:\User\Desktop\STEP\NetWork\ServerClient\ClientWork\obj\Debug\ClientWork.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\NetWork\ServerClient\ClientWork\obj\Debug\ClientWork.dll
+D:\User\Desktop\STEP\NetWork\ServerClient\ClientWork\obj\Debug\ClientWork.pdb

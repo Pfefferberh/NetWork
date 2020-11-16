@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerClient", "ServerClient\ServerClient.csproj", "{97A1C46A-8DB3-44B1-AE0E-A1C3B485AE20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientWork", "ClientWork\ClientWork.csproj", "{978A88D6-7A62-4976-8D28-30E187E17039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{0F74AA6B-01A1-4794-B9C4-838A2582855B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A1C46A-8DB3-44B1-AE0E-A1C3B485AE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A1C46A-8DB3-44B1-AE0E-A1C3B485AE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A1C46A-8DB3-44B1-AE0E-A1C3B485AE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A1C46A-8DB3-44B1-AE0E-A1C3B485AE20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978A88D6-7A62-4976-8D28-30E187E17039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978A88D6-7A62-4976-8D28-30E187E17039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978A88D6-7A62-4976-8D28-30E187E17039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978A88D6-7A62-4976-8D28-30E187E17039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F74AA6B-01A1-4794-B9C4-838A2582855B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F74AA6B-01A1-4794-B9C4-838A2582855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F74AA6B-01A1-4794-B9C4-838A2582855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F74AA6B-01A1-4794-B9C4-838A2582855B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C66C5FC-4DEF-4290-9C04-56BF6FB6DED0}
+	EndGlobalSection
+EndGlobal
