@@ -1,0 +1,14 @@
+D:\шаг\C#\Network\ServerCity\ServeC\obj\Debug\ServeC.csprojAssemblyReference.cache
+D:\шаг\C#\Network\ServerCity\ServeC\obj\Debug\ServeC.csproj.CoreCompileInputs.cache
+D:\шаг\C#\Network\ServerCity\ServeC\bin\Debug\ServeC.exe.config
+D:\шаг\C#\Network\ServerCity\ServeC\bin\Debug\ServeC.exe
+D:\шаг\C#\Network\ServerCity\ServeC\bin\Debug\ServeC.pdb
+D:\шаг\C#\Network\ServerCity\ServeC\obj\Debug\ServeC.exe
+D:\шаг\C#\Network\ServerCity\ServeC\obj\Debug\ServeC.pdb
+D:\User\Desktop\STEP\NetWork\ServerCity\ServeC\bin\Debug\ServeC.exe.config
+D:\User\Desktop\STEP\NetWork\ServerCity\ServeC\bin\Debug\ServeC.exe
+D:\User\Desktop\STEP\NetWork\ServerCity\ServeC\bin\Debug\ServeC.pdb
+D:\User\Desktop\STEP\NetWork\ServerCity\ServeC\obj\Debug\ServeC.csprojAssemblyReference.cache
+D:\User\Desktop\STEP\NetWork\ServerCity\ServeC\obj\Debug\ServeC.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\NetWork\ServerCity\ServeC\obj\Debug\ServeC.exe
+D:\User\Desktop\STEP\NetWork\ServerCity\ServeC\obj\Debug\ServeC.pdb
